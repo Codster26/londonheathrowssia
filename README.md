@@ -3,7 +3,7 @@ This is a replacement for the current SSIA airport. This airport is based off of
 
 How To Download (fivem):
 
-1. Click the greeen botton that says "code"
+1. Click the greeen button that says "code"
 2. Click download as .zip
 3. Extract it
 4. Get the "LondonHeathrowSSIA" and drag it in your resources folder
